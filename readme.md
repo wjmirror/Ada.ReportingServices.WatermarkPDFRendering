@@ -1,0 +1,1 @@
+### Ada.ReportingServices.WatermarkPDFRender is a Reporting Services PDF render which adds a watermark text on each page.
